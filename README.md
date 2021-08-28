@@ -1,8 +1,14 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-greatigr&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.liveinpeace.vercel.app/api/?handle=liveinpeace)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-greatigr&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
 # 귀찮았어요
 
 드디어 제대로 해볼 마음이 생겼습니다.  
