@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-greatigr)](https://github.com/anuraghazra/github-readme-stats)
+
+# 귀찮았어요
+
+드디어 제대로 해볼 마음이 생겼습니다.  
+귀찮아서 미루었던 것들을 해보려고요.
+  
+여짓껏 했던 것들 이제야 올립니다.  
+
+#### 또 귀찮아지면 나중에 할게요.❤
 <!--
 **Y-greatigr/Y-greatigr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,12 +24,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 귀찮았어요
-
-드디어 제대로 해볼 마음이 생겼습니다.  
-귀찮아서 미루었던 것들을 해보려고요.
-  
-여짓껏 했던 것들 이제야 올립니다.  
-
-#### 또 귀찮아지면 나중에 할게요.❤
