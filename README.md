@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-greatigr&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.liveinpeace.vercel.app/api/?handle=liveinpeace)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)
 # 귀찮았어요
 
 드디어 제대로 해볼 마음이 생겼습니다.  
