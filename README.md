@@ -5,11 +5,16 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)
 
 <!--
+![C](https://img.shields.io/badge/-C++-#A8B9CC?style=flat-square&logo=c%2B%2B)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Html](https://img.shields.io/badge/-Html-#E34F26?style=flat-square&logo=javascript)
+![Css](https://img.shields.io/badge/-Css-#1572B6?style=flat-square&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Maven](https://img.shields.io/badge/-Maven-#C71A36?style=flat-square)
+
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-greatigr&exclude_repo=github-readme-stats)](https://github.com/Y-greatigr/github-readme-stats)
