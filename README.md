@@ -6,7 +6,7 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY-greatigr)](https://hits.seeyoufarm.com)[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)
 -->
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-greatigr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ![C](https://img.shields.io/badge/-C++-#A8B9CC?style=flat-square&logo=c%2B%2B)
@@ -19,10 +19,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Maven](https://img.shields.io/badge/-Maven-#C71A36?style=flat-square)
 -->
-  
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-greatigr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
   <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-greatigr&exclude_repo=github-readme-stats)](https://github.com/Y-greatigr/github-readme-stats)
   -->
