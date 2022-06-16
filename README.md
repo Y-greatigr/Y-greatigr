@@ -6,8 +6,8 @@
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FY-greatigr)](https://hits.seeyoufarm.com)[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)
 -->
   
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)  
 <!--
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=liveinpeace)](https://solved.ac/liveinpeace)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y-greatigr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
